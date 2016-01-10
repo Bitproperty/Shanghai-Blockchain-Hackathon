@@ -75,7 +75,7 @@
         jar="/Users/lidan_china/Downloads/Bitproperty/wallet/build/intermediates/exploded-aar/Bitproperty/volley/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="68088a710c84075ad3f26236b8c095d623fb6cba">
+        sha1="8781a08f2a7d3cb25b1924e0d8216194c2b2888a">
         <dex dex="/Users/lidan_china/Downloads/Bitproperty/wallet/build/intermediates/pre-dexed/debug/classes-83c3a9b0bd5d7546c60d1228a8edecc798db20e0.jar" />
     </item>
     <item
@@ -107,18 +107,18 @@
         <dex dex="/Users/lidan_china/Downloads/Bitproperty/wallet/build/intermediates/pre-dexed/debug/guava-18.0-7897b89714a15df87b4635532efe958924b35d48.jar" />
     </item>
     <item
-        jar="/Users/lidan_china/Downloads/Bitproperty/core/libs/bitcoinj-core-0.12.3-COINOMI-3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="8828448b99d5eff0824922bc4716378c23bbe5de">
-        <dex dex="/Users/lidan_china/Downloads/Bitproperty/wallet/build/intermediates/pre-dexed/debug/bitcoinj-core-0.12.3-COINOMI-3-7c6dbb423aaf6bf217b5c0755c1a6b1ff1492952.jar" />
-    </item>
-    <item
         jar="/Users/lidan_china/Downloads/Bitproperty/wallet/build/intermediates/exploded-aar/com.android.support/support-v4-preferencefragment/1.0.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="f1678f81f938d991e46e194eacf1f224ffbf970f">
         <dex dex="/Users/lidan_china/Downloads/Bitproperty/wallet/build/intermediates/pre-dexed/debug/classes-5d9407c7aaa2f0adc7907cffb68b023f0f37f7f0.jar" />
+    </item>
+    <item
+        jar="/Users/lidan_china/Downloads/Bitproperty/core/libs/bitcoinj-core-0.12.3-COINOMI-3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8828448b99d5eff0824922bc4716378c23bbe5de">
+        <dex dex="/Users/lidan_china/Downloads/Bitproperty/wallet/build/intermediates/pre-dexed/debug/bitcoinj-core-0.12.3-COINOMI-3-7c6dbb423aaf6bf217b5c0755c1a6b1ff1492952.jar" />
     </item>
     <item
         jar="/Users/lidan_china/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
@@ -128,18 +128,18 @@
         <dex dex="/Users/lidan_china/Downloads/Bitproperty/wallet/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-12514fcee87e4e98ed0c61084a7546b7666da7b7.jar" />
     </item>
     <item
+        jar="/Users/lidan_china/Downloads/Bitproperty/core/build/libs/core.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="439b3355c0ccc63926b5f14b1e7d8e6eb0bc2aa7">
+        <dex dex="/Users/lidan_china/Downloads/Bitproperty/wallet/build/intermediates/pre-dexed/debug/core-79c781fbd22f00d26f5c7adf7b92b7fde0ec939e.jar" />
+    </item>
+    <item
         jar="/Users/lidan_china/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-jdk14/1.7.6/1a3301a32ea7d90c3d33e9d60edbfdc9589fc748/slf4j-jdk14-1.7.6.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="1a3301a32ea7d90c3d33e9d60edbfdc9589fc748">
         <dex dex="/Users/lidan_china/Downloads/Bitproperty/wallet/build/intermediates/pre-dexed/debug/slf4j-jdk14-1.7.6-bef58f594feea1899ae0fe9da6909be3dc440c93.jar" />
-    </item>
-    <item
-        jar="/Users/lidan_china/Downloads/Bitproperty/core/build/libs/core.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="9b14304cfa75aed750241ca8c0f824778ef08fc2">
-        <dex dex="/Users/lidan_china/Downloads/Bitproperty/wallet/build/intermediates/pre-dexed/debug/core-79c781fbd22f00d26f5c7adf7b92b7fde0ec939e.jar" />
     </item>
 
 </items>
